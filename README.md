@@ -1,2 +1,2 @@
-# college-course-planning
+# College Course Planner
 A mobile app for planning college courses
