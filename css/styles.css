@@ -1,0 +1,29 @@
+html {
+  scroll-behavior: smooth;
+}
+html,
+body {
+  font-family: Lato, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+/* Reusables  */
+.standard {
+  padding: 3rem 0;
+}
+.bg-lt-gray {
+  background-color: #eee;
+}
+
+.page-navbar {
+  padding: 2rem 0;
+  background-color: #eee;
+}
+.page-footer {
+  padding: 2rem 0;
+  background-color: #eee;
+}
+.flex-stretch {
+  flex: 1;
+}
